@@ -26,7 +26,7 @@ https://huggingface.co/matsuo-lab/weblab-10b
 ### RINNA
 **japanese**  
 rinna/japanese-gpt-neox-3.6b  
-https://huggingface.co/rinna/japanese-gpt-neox-3.6b
+https://huggingface.co/rinna/japanese-gpt-neox-3.6b  
 
 **bilingual**  
 rinna/bilingual-gpt-neox-4b  
