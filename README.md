@@ -24,9 +24,9 @@ matsuo-lab/weblab-10b
 https://huggingface.co/matsuo-lab/weblab-10b
 
 ### RINNA
-#### japanese
+*japanese
 rinna/japanese-gpt-neox-3.6b  
 https://huggingface.co/rinna/japanese-gpt-neox-3.6b
-#### bilingual
+*bilingual
 rinna/bilingual-gpt-neox-4b  
 https://huggingface.co/rinna/bilingual-gpt-neox-4b
