@@ -8,6 +8,25 @@
 
 ## トークナイザー
 ### サイバーエージェント
-cyberagent/open-calm-7b
-
+cyberagent/open-calm-7b  
 https://huggingface.co/cyberagent/open-calm-7b
+
+### ELYZA
+elyza/ELYZA-japanese-Llama-2-7b  
+https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b
+
+### LINE
+line-corporation/japanese-large-lm-3.6b  
+https://huggingface.co/line-corporation/japanese-large-lm-3.6b
+
+### 東大松尾研
+matsuo-lab/weblab-10b  
+https://huggingface.co/matsuo-lab/weblab-10b
+
+### RINNA
+#### japanese
+rinna/japanese-gpt-neox-3.6b  
+https://huggingface.co/rinna/japanese-gpt-neox-3.6b
+#### bilingual
+rinna/bilingual-gpt-neox-4b  
+https://huggingface.co/rinna/bilingual-gpt-neox-4b
