@@ -19,6 +19,10 @@ https://huggingface.co/elyza/ELYZA-japanese-Llama-2-7b
 line-corporation/japanese-large-lm-3.6b  
 https://huggingface.co/line-corporation/japanese-large-lm-3.6b
 
+### LLM-jp
+llm-jp/hf-slow-tokenizer-v21b1  
+https://huggingface.co/llm-jp/hf-slow-tokenizer-v21b1
+
 ### 東大松尾研
 matsuo-lab/weblab-10b  
 https://huggingface.co/matsuo-lab/weblab-10b
