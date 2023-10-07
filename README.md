@@ -9,4 +9,5 @@
 ## トークナイザー
 ### サイバーエージェント
 cyberagent/open-calm-7b
+
 https://huggingface.co/cyberagent/open-calm-7b
